@@ -28,7 +28,11 @@ This is a premium module available exclusively to [Patreon supporters](https://p
 
 Available through the Foundry VTT package manager to Patreon subscribers.
 
+**Current Version:** v1.7.1
+
 **Manifest URL:** `https://r2.foundryvtt.com/packages-public/rnk-chat/module.json`
+
+**Download:** [v1.7.1 Release](https://github.com/RNK-Enterprise/rnk-chat/releases/tag/v1.7.1)
 
 ## 🐛 Reporting Issues
 
