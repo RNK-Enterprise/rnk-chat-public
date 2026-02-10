@@ -37,7 +37,7 @@ Compatibility Foundry VTT compatibility: 11–13 (verified on 12).
 
 License MIT — see LICENSE.
 
-** My Story
+My Story
 
 I am a Game Master (GM) who has always been passionate about tabletop role-playing games. My journey into development began unexpectedly after a career as a truck driver came to an end due to health challenges. In 2021, I suffered several strokes that forced me off the road, leaving me with limited mobility and energy for outings that would otherwise exhaust me for days.
 
